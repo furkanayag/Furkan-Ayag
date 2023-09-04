@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "img": "assets/images/jungle.png",
+        "headerimg": "assets/images/headerimg.png",
+        "name": "Jungle",
+        "year": "2023",
+        "clientname": "Jungle",
+        "service1": "Web Design",
+        "service2": "",
+        "service3": "Brand Identity",
+        "location": "Istanbul",
+        "explanation": "Jungle is a movie industry centered start-up. They have a new, fresh face with Artitech designer's touch.",
+        "img1": "assets/images/tisort.png",
+        "img2": "assets/images/phone_mockup.png",
+        "img3": "assets/images/social_media.png",
+        "img4": "assets/images/shop_bag.png",
+        "img5": "assets/images/Billboard Mockup.png" 
+    }
+]
